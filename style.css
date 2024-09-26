@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(135deg, #eeeeee, #cccccc);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.register-box {
+    background-color: #444;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    color: white;
+    text-align: center;
+    width: 300px;
+}
+
+.register-box h2 {
+    margin-bottom: 20px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.register-box label {
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+    font-size: 0.9rem;
+}
+
+.register-box input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.register-box button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ddd;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.register-box button:hover {
+    background-color: #bbb;
+}
+
+.google-signup {
+    margin-top: 10px;
+}
+
+.google-signup img {
+    width: 30px;
+}* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(135deg, #eeeeee, #cccccc);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.register-box {
+    background-color: #444;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    color: white;
+    text-align: center;
+    width: 300px;
+}
+
+.register-box h2 {
+    margin-bottom: 20px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.register-box label {
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+    font-size: 0.9rem;
+}
+
+.register-box input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.register-box button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ddd;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.register-box button:hover {
+    background-color: #bbb;
+}
+
+.google-signup {
+    margin-top: 10px;
+}
+
+.google-signup img {
+    width: 30px;
+    mix-blend-mode: color-burn;
+}
